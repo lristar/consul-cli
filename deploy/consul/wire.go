@@ -2,7 +2,7 @@
 // +build wireinject
 //go:generate wire
 
-package main
+package consul
 
 import (
 	"consul-cli/internal/client"
@@ -12,6 +12,6 @@ import (
 )
 
 // initApp init consul application.
-func initApp() (*app) {
+func InitApp() (*app) {
 	panic(wire.Build(client.ProviderSet,service.ProviderSet,server.ProviderSet,newApp))
 }

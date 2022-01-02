@@ -1,4 +1,4 @@
-package main
+package consul
 
 import (
 	"context"
@@ -6,11 +6,11 @@ import (
 )
 
 type app struct {
-	g      *gin.Engine
-	ctx    context.Context
-	cancel func()
+	G      *gin.Engine
+	Ctx    context.Context
+	Cancel func()
 }
 
 func newApp(engine *gin.Engine) *app {
-	return &app{g: engine}
+	return &app{G: engine}
 }
