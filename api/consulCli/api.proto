@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package consulCli.service.v1;
+
+import "google/protobuf/empty.proto";
+
+option go_package = "api";
+
+service  webwork {
+  rpc Hello (.google.protobuf.Empty) returns (HelloResp);
+}
+
+message HelloResp {
+   string message =1;
+}

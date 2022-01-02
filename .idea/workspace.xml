@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74bb306c-4d0f-4802-bf20-c83f0baef608" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmd/consul-cli/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
+              <folding>
+                <element signature="e#14#96#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="43" column="12" lean-forward="true" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/third_party/google/protobuf/compiler/plugin.proto">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/consulCli/api.proto">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/consulCli/api-gin.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/consulCli/api.pb.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="132" column="23" selection-start-line="132" selection-start-column="23" selection-end-line="132" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmd/consul-cli/wire.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/third_party/google/api/annotations,proto">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../pkg/mod/github.com/hashicorp/consul/api@v1.12.0/catalog.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="204" column="18" selection-start-line="204" selection-start-column="18" selection-end-line="204" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../pkg/mod/github.com/hashicorp/consul/api@v1.12.0/api.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="94" column="5" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
+              <folding>
+                <element signature="e#13#282#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Hello</find>
+      <find>interface</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="D:/environment/go1.15" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/client/client.go" />
+        <option value="$PROJECT_DIR$/internel/api.proto.go" />
+        <option value="$PROJECT_DIR$/internel/api.go" />
+        <option value="$PROJECT_DIR$/go.mod" />
+        <option value="$PROJECT_DIR$/internel/api/api.proto" />
+        <option value="$PROJECT_DIR$/internel/api/api.go" />
+        <option value="$PROJECT_DIR$/client.go" />
+        <option value="$PROJECT_DIR$/api/consul-cli/api.proto.go" />
+        <option value="$PROJECT_DIR$/api/consul-cli/api.go" />
+        <option value="$PROJECT_DIR$/api/consul-cli/api.proto" />
+        <option value="$PROJECT_DIR$/third_party/google/api/annotations,proto" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/api/consulCli/api.proto" />
+        <option value="$PROJECT_DIR$/api/consulCli/api.pb.go" />
+        <option value="$PROJECT_DIR$/api/consulCli/api-gin.go" />
+        <option value="$PROJECT_DIR$/cmd/consul-cli/main.go" />
+        <option value="$PROJECT_DIR$/cmd/consul-cli/wire.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="40" />
+    <option name="y" value="40" />
+    <option name="width" value="2800" />
+    <option name="height" value="1624" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="consul-cli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="consul-cli" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="consul-cli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="consul-cli" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="consul-cli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="consul-cli" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="consulCli" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="consul-cli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="consul-cli" type="462c0819:PsiDirectoryNode" />
+              <item name="cmd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="consul-cli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="consul-cli" type="462c0819:PsiDirectoryNode" />
+              <item name="cmd" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-cli" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lzy-project/consul" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\software_data\go_file\src\consul-cli" />
+      <recent name="D:\software_data\go_file\src\consul-cli\third_party" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\software_data\go_file\src\consul-cli\third_party" />
+      <recent name="D:\software_data\go_file\src\consul-cli\api\consulCli" />
+      <recent name="D:\software_data\go_file\src\consul-cli\cmd\consul-cli" />
+      <recent name="D:\software_data\go_file\src\consul-cli\internel\api" />
+      <recent name="D:\software_data\go_file\src\consul-cli\internel" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build client.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="consul-cli" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/client.go" />
+      <package value="consul-cli" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build client.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1453" height="865" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24874552" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Alibaba Cloud Explorer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49964157" weight="0.32970026" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964157" weight="0.32833788" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Codeup" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.8107527" visible="true" weight="0.38010898" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.18924731" side_tool="true" visible="true" weight="0.38010898" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="3" />
+      <window_info anchor="right" id="Alibaba ROS Templates" order="4" />
+      <window_info anchor="right" id="Alibaba Log Console" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="make" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn,direct</proxy>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/internel/api/google/protobuf/any.proto" />
+    <entry file="file://$PROJECT_DIR$/internel/api/google/protobuf/compiler/plugin.proto" />
+    <entry file="file://$PROJECT_DIR$/client/client.go" />
+    <entry file="file://$PROJECT_DIR$/go.mod" />
+    <entry file="file://$PROJECT_DIR$/go.sum" />
+    <entry file="file://$PROJECT_DIR$/internel/api/api.proto" />
+    <entry file="file://$PROJECT_DIR$/internel/api/api.go" />
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/hashicorp/consul/api@v1.12.0/api.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10794">
+          <caret line="628" column="39" selection-start-line="628" selection-start-column="33" selection-end-line="628" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../pkg/mod/github.com/hashicorp/go-cleanhttp@v0.5.1/cleanhttp.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../pkg/mod/github.com/hashicorp/consul/api@v1.12.0/catalog.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="204" column="18" selection-start-line="204" selection-start-column="18" selection-end-line="204" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../pkg/mod/github.com/hashicorp/consul/api@v1.12.0/api.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="94" column="5" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
+          <folding>
+            <element signature="e#13#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_party/google/protobuf/compiler/plugin.proto">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/consulCli/api.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_party/google/api/annotations,proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/consulCli/api/consulCli/api_gin.pb.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/consulCli/api_gin.pb.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-939" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/consulCli/api-gin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/consulCli/api.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/consulCli/api.pb.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="132" column="23" selection-start-line="132" selection-start-column="23" selection-end-line="132" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/consul-cli/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#14#96#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/consul-cli/wire.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="43" column="12" lean-forward="true" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
