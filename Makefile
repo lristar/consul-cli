@@ -36,6 +36,12 @@ all:
 	make config;
 	make generate;
 
+
+.PHONY: run consul
+# run consul
+run-consul:
+	go run ./cmd/consul-cli/main.go
+
 # show help
 help:
 	@echo ''

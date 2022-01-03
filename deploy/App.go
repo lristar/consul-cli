@@ -1,4 +1,4 @@
-package consul
+package deploy
 
 import (
 	"context"
