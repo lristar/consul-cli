@@ -5,5 +5,5 @@
 https://github.com/protocolbuffers/protobuf/releases 
 
 ##  下载所需的pkg
-go get github.com/gogo/protobuf/protoc-gen-gofast
+go get github.com/gogo/protobuf/protoc-gen-gofast \n
 go get github.com/google/wire/cmd/wire
